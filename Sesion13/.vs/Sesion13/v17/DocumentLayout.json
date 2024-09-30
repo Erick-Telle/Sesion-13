@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{CAF727A0-FBC9-40F6-B912-B35363DA4979}|MetodoBurbuja\\MetodoBurbuja.csproj|solutionrelative:metodoburbuja\\modelos\\burbuja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAF727A0-FBC9-40F6-B912-B35363DA4979}|MetodoBurbuja\\MetodoBurbuja.csproj|c:\\users\\user\\documents\\metodologia de la programacion estructurada\\ghj\\sesion13\\metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CAF727A0-FBC9-40F6-B912-B35363DA4979}|MetodoBurbuja\\MetodoBurbuja.csproj|C:\\Users\\User\\Documents\\Metodologia de la programacion estructurada\\ghj\\Sesion13\\metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAF727A0-FBC9-40F6-B912-B35363DA4979}|MetodoBurbuja\\MetodoBurbuja.csproj|solutionrelative:metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAF727A0-FBC9-40F6-B912-B35363DA4979}|MetodoBurbuja\\MetodoBurbuja.csproj|c:\\users\\user\\documents\\metodologia de la programacion estructurada\\ghj\\sesion13\\metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CAF727A0-FBC9-40F6-B912-B35363DA4979}|MetodoBurbuja\\MetodoBurbuja.csproj|C:\\Users\\User\\Documents\\Metodologia de la programacion estructurada\\ghj\\Sesion13\\metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CAF727A0-FBC9-40F6-B912-B35363DA4979}|MetodoBurbuja\\MetodoBurbuja.csproj|solutionrelative:metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,25 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Metodologia de la programacion estructurada\\ghj\\Sesion13\\MetodoBurbuja\\Form1.cs",
-              "RelativeDocumentMoniker": "MetodoBurbuja\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Metodologia de la programacion estructurada\\ghj\\Sesion13\\MetodoBurbuja\\Form1.cs",
-              "RelativeToolTip": "MetodoBurbuja\\Form1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T15:38:07.619Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -55,6 +38,22 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Metodologia de la programacion estructurada\\ghj\\Sesion13\\MetodoBurbuja\\Form1.cs",
+              "RelativeDocumentMoniker": "MetodoBurbuja\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Metodologia de la programacion estructurada\\ghj\\Sesion13\\MetodoBurbuja\\Form1.cs",
+              "RelativeToolTip": "MetodoBurbuja\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:38:07.619Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
@@ -63,8 +62,7 @@
               "ToolTip": "C:\\Users\\User\\Documents\\Metodologia de la programacion estructurada\\ghj\\Sesion13\\MetodoBurbuja\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "MetodoBurbuja\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T15:22:57.378Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-30T15:22:57.378Z"
             }
           ]
         }
